@@ -54,7 +54,7 @@ tSNE embeddings, deconvnets, data gradients, fooling ConvNets, human comparisons
 - [Transfer Learning and Fine-tuning Convolutional Neural Networks](https://cs231n.github.io/transfer-learning/) <br/>
 
 
-[OpenCV](https://opencv.org/) | [colah.github.io](http://colah.github.io/)
+[Computer vision Nanodegree Udacity](https://github.com/SKKSaikia/CompVisionNanoD) | [OpenCV](https://opencv.org/) | [colah.github.io](http://colah.github.io/) | [awesome-cv](https://github.com/jbhuang0604/awesome-computer-vision) | [awesome-Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 #### EXAM : [2017 Sample Midterm](https://github.com/SKKSaikia/CS231n_CNN/blob/master/exam/CS231NSampleMidterm.pdf), [Solution](https://github.com/SKKSaikia/CS231n_CNN/blob/master/exam/CS231NSampleMidtermSolutions.pdf)
 
