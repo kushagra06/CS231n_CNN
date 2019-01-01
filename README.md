@@ -27,52 +27,28 @@ CS231n course lecture video's from [Spring 2017](https://www.youtube.com/watch?v
 - AWS Tutorial
 
 <h2><b> ♞ Module 1: Neural Networks </b></h2> 
-
-- Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits
-
-L1/L2 distances, hyperparameter search, cross-validation
-
-- Linear classification: Support Vector Machine, Softmax
-
-parameteric approach, bias trick, hinge loss, cross-entropy loss, L2 regularization, web demo
-
-- Optimization: Stochastic Gradient Descent
-
-optimization landscapes, local search, learning rate, analytic/numerical gradient
-
-- Backpropagation, Intuitions
-
-chain rule interpretation, real-valued circuits, patterns in gradient flow
-
-- Neural Networks Part 1: Setting up the Architecture
-
-model of a biological neuron, activation functions, neural net architecture, representational power
-
-- Neural Networks Part 2: Setting up the Data and the Loss
-
-preprocessing, weight initialization, batch normalization, regularization (L2/dropout), loss functions
-
-- Neural Networks Part 3: Learning and Evaluation
-
-gradient checks, sanity checks, babysitting the learning process, momentum (+nesterov), second-order methods, Adagrad/RMSprop, 
-
-hyperparameter optimization, model ensembles
-
-- Putting it together: Minimal Neural Network Case Study
-
-minimal 2D toy data example
-
+- Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits <br/>
+L1/L2 distances, hyperparameter search, cross-validation <br/>
+- Linear classification: Support Vector Machine, Softmax <br/>
+parameteric approach, bias trick, hinge loss, cross-entropy loss, L2 regularization, web demo <br/>
+- Optimization: Stochastic Gradient Descent <br/>
+optimization landscapes, local search, learning rate, analytic/numerical gradient <br/>
+- Backpropagation, Intuitions <br/>
+chain rule interpretation, real-valued circuits, patterns in gradient flow <br/>
+- Neural Networks Part 1: Setting up the Architecture <br/>
+model of a biological neuron, activation functions, neural net architecture, representational power <br/>
+- Neural Networks Part 2: Setting up the Data and the Loss <br/>
+preprocessing, weight initialization, batch normalization, regularization (L2/dropout), loss functions <br/>
+- Neural Networks Part 3: Learning and Evaluation <br/>
+gradient checks, sanity checks, babysitting the learning process, momentum (+nesterov), second-order methods, Adagrad/RMSprop, hyperparameter optimization, model ensembles <br/>
+- Putting it together: Minimal Neural Network Case Study <br/>
+minimal 2D toy data example <br/>
 <h2><b> ♞ Module 2: Convolutional Neural Networks </b></h2> 
-
-- Convolutional Neural Networks: Architectures, Convolution / Pooling Layers
-
-layers, spatial arrangement, layer patterns, layer sizing patterns, AlexNet/ZFNet/VGGNet case studies, computational considerations
-
-- Understanding and Visualizing Convolutional Neural Networks
-
-tSNE embeddings, deconvnets, data gradients, fooling ConvNets, human comparisons
-
-- Transfer Learning and Fine-tuning Convolutional Neural Networks
+- Convolutional Neural Networks: Architectures, Convolution / Pooling Layers <br/>
+layers, spatial arrangement, layer patterns, layer sizing patterns, AlexNet/ZFNet/VGGNet case studies, computational considerations <br/>
+- Understanding and Visualizing Convolutional Neural Networks <br/>
+tSNE embeddings, deconvnets, data gradients, fooling ConvNets, human comparisons <br/>
+- Transfer Learning and Fine-tuning Convolutional Neural Networks <br/>
 
 
 [OpenCV](https://opencv.org/) | [colah.github.io](http://colah.github.io/)
