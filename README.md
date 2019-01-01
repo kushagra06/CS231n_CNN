@@ -10,9 +10,15 @@ CS231n course lecture video's from [Spring 2017](https://www.youtube.com/watch?v
 
 <p align="justify">Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project. Much of the background and materials of this course will be drawn from the ImageNet Challenge. </p>
 
-# [Assignment](http://cs231n.stanford.edu/2017/assignments.html)
+# [Assignment](http://cs231n.stanford.edu/2017/assignments.html) | [2018 Assignments](https://cs231n.github.io/)
 
-# COURSE
+- [Assignment 1](http://cs231n.github.io/assignments2017/assignment1/) : [Solution](https://github.com/Burton2000/CS231n-2017/tree/master/assignment1)
+- [Assignment 2](http://cs231n.github.io/assignments2017/assignment2/) : [Solution](https://github.com/Burton2000/CS231n-2017/tree/master/assignment2)
+- [Assignment 3](http://cs231n.github.io/assignments2017/assignment3/) : [Solution](https://github.com/Burton2000/CS231n-2017/tree/master/assignment3)
+
+# [COURSE](http://cs231n.stanford.edu/2017/syllabus.html)
+
+<h2><b> ♞ REINFORCEMENT LEARNING </b></h2> 
 
 #### EXAM
 
