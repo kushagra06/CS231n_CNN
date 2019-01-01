@@ -27,28 +27,29 @@ CS231n course lecture video's from [Spring 2017](https://www.youtube.com/watch?v
 - [AWS Tutorial](https://cs231n.github.io/aws-tutorial/)
 
 <h2><b> ♞ Module 1: Neural Networks </b></h2> 
-- [Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits](https://cs231n.github.io/classification/) <br/>
+- [Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits](https://cs231n.github.io/classification/) 
 L1/L2 distances, hyperparameter search, cross-validation <br/>
-- [Linear classification: Support Vector Machine, Softmax](https://cs231n.github.io/linear-classify/) <br/>
+- [Linear classification: Support Vector Machine, Softmax](https://cs231n.github.io/linear-classify/) 
 parameteric approach, bias trick, hinge loss, cross-entropy loss, L2 regularization, web demo <br/>
-- [Optimization: Stochastic Gradient Descent](https://cs231n.github.io/optimization-1/) <br/>
+- [Optimization: Stochastic Gradient Descent](https://cs231n.github.io/optimization-1/)
 optimization landscapes, local search, learning rate, analytic/numerical gradient <br/>
-- [Backpropagation, Intuitions](https://cs231n.github.io/optimization-2/) <br/>
+- [Backpropagation, Intuitions](https://cs231n.github.io/optimization-2/) 
 chain rule interpretation, real-valued circuits, patterns in gradient flow <br/>
-- [Neural Networks Part 1: Setting up the Architecture](https://cs231n.github.io/neural-networks-1/) <br/>
+- [Neural Networks Part 1: Setting up the Architecture](https://cs231n.github.io/neural-networks-1/)
 model of a biological neuron, activation functions, neural net architecture, representational power <br/>
-- [Neural Networks Part 2: Setting up the Data and the Loss](https://cs231n.github.io/neural-networks-2/) <br/>
+- [Neural Networks Part 2: Setting up the Data and the Loss](https://cs231n.github.io/neural-networks-2/) 
 preprocessing, weight initialization, batch normalization, regularization (L2/dropout), loss functions <br/>
-- [Neural Networks Part 3: Learning and Evaluation](https://cs231n.github.io/neural-networks-3/) <br/>
+- [Neural Networks Part 3: Learning and Evaluation](https://cs231n.github.io/neural-networks-3/) 
 gradient checks, sanity checks, babysitting the learning process, momentum (+nesterov), second-order methods, Adagrad/RMSprop, hyperparameter optimization, model ensembles <br/>
-- [Putting it together: Minimal Neural Network Case Study](https://cs231n.github.io/neural-networks-case-study/) <br/>
-minimal 2D toy data example <br/>
+- [Putting it together: Minimal Neural Network Case Study](https://cs231n.github.io/neural-networks-case-study/) 
+minimal 2D toy data example<br/>
+
 <h2><b> ♞ Module 2: Convolutional Neural Networks </b></h2> 
-- [Convolutional Neural Networks: Architectures, Convolution / Pooling Layers](https://cs231n.github.io/convolutional-networks/) <br/>
+- [Convolutional Neural Networks: Architectures, Convolution / Pooling Layers](https://cs231n.github.io/convolutional-networks/)
 layers, spatial arrangement, layer patterns, layer sizing patterns, AlexNet/ZFNet/VGGNet case studies, computational considerations <br/>
-- [Understanding and Visualizing Convolutional Neural Networks](https://cs231n.github.io/understanding-cnn/) <br/>
+- [Understanding and Visualizing Convolutional Neural Networks](https://cs231n.github.io/understanding-cnn/) 
 tSNE embeddings, deconvnets, data gradients, fooling ConvNets, human comparisons <br/>
-- [Transfer Learning and Fine-tuning Convolutional Neural Networks](https://cs231n.github.io/transfer-learning/) <br/>
+- [Transfer Learning and Fine-tuning Convolutional Neural Networks](https://cs231n.github.io/transfer-learning/)
 
 
 [OpenCV](https://opencv.org/) | [colah.github.io](http://colah.github.io/)
