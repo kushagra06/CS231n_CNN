@@ -56,7 +56,7 @@ tSNE embeddings, deconvnets, data gradients, fooling ConvNets, human comparisons
 
 [OpenCV](https://opencv.org/) | [colah.github.io](http://colah.github.io/)
 
-#### EXAM
+#### EXAM : 
 
 # FINAL PROJECT | [Past Project](http://cs231n.stanford.edu/2017/project.html)
 
