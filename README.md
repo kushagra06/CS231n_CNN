@@ -27,7 +27,8 @@ CS231n course lecture video's from [Spring 2017](https://www.youtube.com/watch?v
 - [AWS Tutorial](https://cs231n.github.io/aws-tutorial/)
 
 <h2><b> ♞ Module 1: Neural Networks </b></h2> 
-- [Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits](https://cs231n.github.io/classification/) 
+
+- [Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits](https://cs231n.github.io/classification/)
 L1/L2 distances, hyperparameter search, cross-validation <br/>
 - [Linear classification: Support Vector Machine, Softmax](https://cs231n.github.io/linear-classify/) 
 parameteric approach, bias trick, hinge loss, cross-entropy loss, L2 regularization, web demo <br/>
@@ -45,6 +46,7 @@ gradient checks, sanity checks, babysitting the learning process, momentum (+nes
 minimal 2D toy data example<br/>
 
 <h2><b> ♞ Module 2: Convolutional Neural Networks </b></h2> 
+
 - [Convolutional Neural Networks: Architectures, Convolution / Pooling Layers](https://cs231n.github.io/convolutional-networks/)
 layers, spatial arrangement, layer patterns, layer sizing patterns, AlexNet/ZFNet/VGGNet case studies, computational considerations <br/>
 - [Understanding and Visualizing Convolutional Neural Networks](https://cs231n.github.io/understanding-cnn/) 
