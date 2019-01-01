@@ -28,9 +28,9 @@ CS231n course lecture video's from [Spring 2017](https://www.youtube.com/watch?v
 
 <h2><b> ♞ Module 1: Neural Networks </b></h2> 
 
-- [Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits](https://cs231n.github.io/classification/)
+- [Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits](https://cs231n.github.io/classification/) <br/>
 L1/L2 distances, hyperparameter search, cross-validation <br/>
-- [Linear classification: Support Vector Machine, Softmax](https://cs231n.github.io/linear-classify/) 
+- [Linear classification: Support Vector Machine, Softmax](https://cs231n.github.io/linear-classify/)  <br/>
 parameteric approach, bias trick, hinge loss, cross-entropy loss, L2 regularization, web demo <br/>
 - [Optimization: Stochastic Gradient Descent](https://cs231n.github.io/optimization-1/)
 optimization landscapes, local search, learning rate, analytic/numerical gradient <br/>
