@@ -2,6 +2,7 @@
 
 <img src="https://github.com/SKKSaikia/CS231n_CNN/blob/master/cs231n.PNG">
 
+"Computer Vision" , "ImageNet", "Fei Fei Li" are analogous, I love the idea of taking CS231n. All the memories, with my experience with Vision and working for "[Inceptionism and Residualism in the Classification of Breast Fine-Needle Aspiration Cytology Cell Samples](https://software.intel.com/en-us/download/inceptionism-and-residualism-in-the-classification-of-breast-fine-needle-aspiration)". GoogLeNet, ResNet, all the emotions with "[Visiting](https://photos.app.goo.gl/s5SDUFTUJnechLea8) <b>Stanford Vision Lab</b>".
 
 CS231n course lecture video's from [Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | [2017 course website](http://cs231n.stanford.edu/2017/)
 
