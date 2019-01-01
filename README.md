@@ -18,4 +18,4 @@ CS231n course lecture video's from [Spring 2017](https://www.youtube.com/watch?v
 
 # FINAL PROJECT | [Past Project](http://cs231n.stanford.edu/2017/project.html)
 
-This is it, this project needs to be awesome. The past projects are sooo awesome. All the information on conference, datasets, posters can be found [here](http://cs231n.stanford.edu/2017/project.html). As part of this course, I did, " ".
+This is it, this project needs to be awesome. The past projects of CS231n are sooo awesome. All the information on conference, datasets, posters can be found [here](http://cs231n.stanford.edu/2017/project.html). As part of CS231n, I did, " ".
