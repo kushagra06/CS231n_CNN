@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSKKSaikia%2FCS231n_CNN)
+
 # [CS231n : Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 
 <img src="https://github.com/SKKSaikia/CS231n_CNN/blob/master/cs231n.PNG">
